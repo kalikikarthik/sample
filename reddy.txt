@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 baga vunnde lara
 eamo aalaga naduthu vunnde
+=======
+eamite angutulu
+
+bagavunnava 
+
+eamite sangutulu
+>>>>>>> c09d8a37b619b90583c3e6aecbd9d6160d608df6

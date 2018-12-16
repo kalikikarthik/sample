@@ -1,3 +1,8 @@
 readme.txt
 
+<<<<<<< HEAD
 okokok
+=======
+ok rara babau
+
+>>>>>>> c09d8a37b619b90583c3e6aecbd9d6160d608df6
